@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background: #f3f5fa;
+    color: #20263a;
+    font: 1rem/1.6 system-ui, sans-serif;
+}
+
+header {
+    padding: 3rem 1.5rem;
+    background: #17204a;
+    color: white;
+}
+
+nav {
+    display: flex;
+    gap: 1.25rem;
+}
+
+nav a {
+    color: #d7e2ff;
+}
+
+main {
+    max-width: 48rem;
+    margin: auto;
+    padding: 1.5rem;
+}
+
+article {
+    padding: 1rem 1.25rem;
+    border-left: 4px solid #3d54a4;
+    border-radius: 0.5rem;
+    background: white;
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 2rem 1rem;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    nav {
+        flex-wrap: wrap;
+    }
+}
