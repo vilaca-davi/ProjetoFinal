@@ -12,3 +12,29 @@ Este portfólio é meu Projeto Integrador Final da disciplina de Fundamentos de 
 
 Apresentar alguns dos meus projetos do primeiro ano e praticar a organização de um repositório com commits, branches, issues e pull requests.
 
+
+
+\## Como abrir o portfólio
+
+
+
+Baixe ou clone o repositório e abra o arquivo `index.html` no navegador.
+
+
+
+\## Arquivos do projeto
+
+
+
+\- `index.html` contém a apresentação pessoal e a seção de projetos.
+
+\- `style.css` define o visual da página e os ajustes para telas pequenas.
+
+
+
+\## Aprendizados
+
+
+
+\[Leia minha reflexão sobre o curso](reflexao.md).
+
