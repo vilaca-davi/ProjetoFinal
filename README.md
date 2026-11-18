@@ -30,3 +30,11 @@ Baixe ou clone o repositório e abra o arquivo `index.html` no navegador.
 
 \- `style.css` define o visual da página e os ajustes para telas pequenas.
 
+
+
+\## Aprendizados
+
+
+
+\[Leia minha reflexão sobre o curso](reflexao.md).
+
